@@ -1,0 +1,2 @@
+# keep Linux line endings for shell scripts, so they run in bash on every checkout
+*.sh text eol=lf
